@@ -1,0 +1,13 @@
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.exe
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.deps.json
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.runtimeconfig.json
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.runtimeconfig.dev.json
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.dll
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\bin\Debug\netcoreapp3.1\multi_thread_queuing_system.pdb
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.csprojAssemblyReference.cache
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.AssemblyInfoInputs.cache
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.AssemblyInfo.cs
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.csproj.CoreCompileInputs.cache
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.dll
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.pdb
+C:\Users\linho\Desktop\VeServe\multi_thread_queuing_system\obj\Debug\netcoreapp3.1\multi_thread_queuing_system.genruntimeconfig.cache
